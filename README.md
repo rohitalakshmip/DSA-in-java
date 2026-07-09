@@ -24,5 +24,3 @@ Expect a mix of:
 - Dynamic Programming
 
 Mostly for myself — to stay accountable and track progress. If it helps someone else studying the same playlist, even better.
-
-⭐ Feel free to star it if you're learning along too.
