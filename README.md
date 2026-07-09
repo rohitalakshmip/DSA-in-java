@@ -1,6 +1,5 @@
 # DSA-in-java
 Learning DSA in java
-# DSA Practice — Java
 
 This repo is where I'm tracking my Data Structures & Algorithms journey in Java.
 
@@ -12,7 +11,7 @@ Expect a mix of:
 - Solutions to problems covered in the videos
 - My own attempts before checking the "correct" approach
 
-## Topics I'm covering
+# Topics I'm covering
 - Basics of JAVA and DSA consisting of
 - Arrays & Strings
 - Recursion
